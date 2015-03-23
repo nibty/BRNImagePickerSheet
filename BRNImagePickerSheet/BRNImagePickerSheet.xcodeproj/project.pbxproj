@@ -213,11 +213,11 @@
 				TargetAttributes = {
 					494E4F5B1A9F4773009B5742 = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = 5953RHWYWT;
+						DevelopmentTeam = YYLRKJV99P;
 					};
 					494E4FA31A9F4AC4009B5742 = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = 5953RHWYWT;
+						DevelopmentTeam = YYLRKJV99P;
 					};
 				};
 			};
